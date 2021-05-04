@@ -7,9 +7,9 @@ fi
 sudo -i
 apt-get update
 apt-get install -y git wget
-rm -rf xmr.sh
-wget https://raw.githubusercontent.com/luanbuiamz/monero/master/xmr.sh
-chmod 777 xmr.sh
-./xmr.sh
+rm -rf monero.sh
+wget https://raw.githubusercontent.com/luanbuiamz/monero/master/monero.sh
+chmod 777 monero.sh
+./monero.sh
 
 
